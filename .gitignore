@@ -1,0 +1,26 @@
+# Данные
+datasets/
+*.csv
+*.parquet
+
+# Модели
+*.pt
+*.pth
+*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# IDE
+.vscode/
+
+# W&B
+wandb/
+
+# OS
+.DS_Store
